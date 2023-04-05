@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [app-movie](https://keyn1991.github.io/app-movie-react-2023/)
 
-- 🔭 I’m currently working on [goonline](keyn1991.github.io/work-goonline/)
+- 🔭 I’m currently working on [goonline](https://keyn1991.github.io/work-goonline/)
 
 - 🔭 I’m currently working on [weather-map](https://keyn1991.github.io/work-goonline/)
 
