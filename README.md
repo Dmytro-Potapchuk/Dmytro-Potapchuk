@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dmytro Potapchuk</h1>
+<h1 align="center">Hi 👋, I'm Dmytro Potapchuk</h1>  
+
 <h3 align="center">A passionate frontend developer from Ukraine. I live ten yer in Poland</h3>
 
-
+<a href="[https://getbootstrap.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2F%25D1%2583%25D0%25BA%25D1%2580%25D0%25B0%25D1%2597%25D0%25BD%25D0%25B0-gif-25072270&psig=AOvVaw1v7npMQgHfk7wwparPerj2&ust=1680779288284000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDiyMC_kv4CFQAAAAAdAAAAABAR)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
 - 🔭 I’m currently working on [solargen](https://keyn1991.github.io/solar-gen/)
 
