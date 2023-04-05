@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [solargen](https://keyn1991.github.io/solar-gen/)
 
-- 🌱 I’m currently learning **https://owu.com.ua/**
-
 - 🔭 I’m currently working on [app-movie](https://keyn1991.github.io/app-movie-react-2023/)
+
+- 🌱 I’m currently learning **https://owu.com.ua/**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Keyn1991](https://github.com/Keyn1991)
 
