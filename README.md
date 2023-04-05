@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmytro Potapchuk</h1>  
- <img src="https://api.ta-da.net.ua/uploads/goods/9d436f03-30e5-11ed-9362-ac1f6bd8a6e9.png" width="100%">
+ <img src="https://api.ta-da.net.ua/uploads/goods/9d436f03-30e5-11ed-9362-ac1f6bd8a6e9.png" width="5%">
 
 <h3 align="center">A passionate frontend developer from Ukraine. I live ten yer in Poland</h3>
 
