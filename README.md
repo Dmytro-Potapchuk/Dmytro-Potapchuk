@@ -7,15 +7,19 @@
 
 - 🔭 I’m currently working on [app-movie](https://keyn1991.github.io/app-movie-react-2023/)
 
+- 🔭 I’m currently working on [goonline](keyn1991.github.io/work-goonline/)
+
+- 🔭 I’m currently working on [weather-map](https://keyn1991.github.io/weather-map/)
+
 - 🌱 I’m currently learning **https://owu.com.ua/**
+
+- 📄 Know about my experiences [https://keyn1991.github.io/My-CV/](https://keyn1991.github.io/My-CV/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Keyn1991](https://github.com/Keyn1991)
 
-- 💬 Ask me about **React. JS. TS. Node.JS**
-
 - 📫 How to reach me **potapchuk50@gmail.com**
 
-- 📄 Know about my experiences [https://keyn1991.github.io/My-CV/](https://keyn1991.github.io/My-CV/)
+- 💬 Ask me about **React. JS. TS. Node.JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
