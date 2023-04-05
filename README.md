@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmytro Potapchuk</h1>  
- <img src="[https://raw.githack.com/<your-username>/<your-repo>/main/flags.css](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhohhol.com.ua%2Fua%2Fp403665325-prapor-ukrayini-srednij.html&psig=AOvVaw1v7npMQgHfk7wwparPerj2&ust=1680779288284000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDiyMC_kv4CFQAAAAAdAAAAABA0)" width="100%">
+ <img src="https://api.ta-da.net.ua/uploads/goods/9d436f03-30e5-11ed-9362-ac1f6bd8a6e9.png" width="100%">
 
 <h3 align="center">A passionate frontend developer from Ukraine. I live ten yer in Poland</h3>
 
