@@ -31,21 +31,9 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyn1991" alt="keyn1991" /></a> </p>
-
-
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Keyn1991&show_icons=true&locale=en&layout=compact" alt="Keyn1991e" /></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keyn1991&show_icons=true&locale=en" alt="Keyn1991" /></p>
 
 
-<div style="display:flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 10px;">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Keyn1991&show_icons=true&locale=en&layout=compact" alt="Keyn1991e" />
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keyn1991&show_icons=true&locale=en" alt="Keyn1991" />
-  </div>
-</div>
 
 
