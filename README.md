@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from Ukraine. I live ten yer in Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Keyn1991&label=Profile%20views&color=0e75b6&style=flat" alt="natawhite" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=natawhite&label=Profile%20views&color=0e75b6&style=flat" alt="natawhite" /> </p>
 
 - 🔭 I’m currently working on [solargen](https://keyn1991.github.io/solar-gen/)
 
@@ -30,4 +30,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyn1991" alt="keyn1991" /></a> </p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=natawhite&show_icons=true&locale=en" alt="natawhite" /></p>
