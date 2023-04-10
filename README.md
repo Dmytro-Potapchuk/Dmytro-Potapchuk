@@ -20,8 +20,6 @@
 - 💬 Ask me about **React. JS. TS. Node.JS**
 
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=natawhite&show_icons=true&locale=en&layout=compact" alt="natawhite" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/dmytro.potapchuk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dmytro.potapchuk/" height="30" width="40" /></a>
@@ -33,6 +31,9 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyn1991" alt="keyn1991" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Keyn1991&show_icons=true&locale=en&layout=compact" alt="Keyn1991e" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keyn1991&show_icons=true&locale=en" alt="Keyn1991" /></p>
