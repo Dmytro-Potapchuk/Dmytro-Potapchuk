@@ -2,13 +2,11 @@
 
 <h3 align="center">A passionate frontend developer from Ukraine. I live ten yer in Poland</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=natawhite&label=Profile%20views&color=0e75b6&style=flat" alt="natawhite" /> </p>
+
 - 🔭 I’m currently working on [solargen](https://keyn1991.github.io/solar-gen/)
 
 - 🔭 I’m currently working on [app-movie](https://keyn1991.github.io/app-movie-react-2023/)
-
-- 🔭 I’m currently working on [goonline](https://keyn1991.github.io/work-goonline/)
-
-- 🔭 I’m currently working on [weather-map](https://keyn1991.github.io/work-goonline/)
 
 - 🌱 I’m currently learning **https://owu.com.ua/**
 
