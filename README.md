@@ -30,7 +30,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyn1991" alt="keyn1991" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=username=keyn1991&show_icons=true&locale=en" alt="keyn1991" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keyn1991&show_icons=true&locale=en" alt="Keyn1991" /></p>
+
 
 
 
