@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmytro Potapchuk</h1>  
 
-<h3 align="center">I am a Full Stack developer with a focus on React and Node, based in Poland for ten years. My passion lies in exploring cutting-edge technologies and techniques to create beautiful and functional user interfaces.</h3>
+<h3 align="center">Full Stack developer with a focus on React and Node from Warsaw.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Keyn1991&label=Profile%20views&color=0e75b6&style=flat" alt="Keyn1991" /> </p>
 
