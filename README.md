@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **https://owu.com.ua/**
 
-- 📄 Know about my experiences [https://keyn1991.github.io/My-CV/](https://keyn1991.github.io/My-CV/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Keyn1991](https://github.com/Keyn1991)
 
 - 📫 How to reach me **potapchuk50@gmail.com**
