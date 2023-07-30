@@ -4,9 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Keyn1991&label=Profile%20views&color=0e75b6&style=flat" alt="Keyn1991" /> </p>
 
-- 🔭 I’m currently working on [https://github.com/Keyn1991/okten-final-project-interface)
-- 
-- 🔭 I’m currently working on [https://github.com/Keyn1991/okten-final-project-backend-nestjs)
+
+- - 🔭 I’m currently working on [final-project-interface](https://github.com/Keyn1991/okten-final-project-interface)
+
+- - 🔭 I’m currently working on [final-project-backend-nestjs](https://github.com/Keyn1991/okten-final-project-backend-nestjs)
  
 - 🔭 I’m currently working on [Telegram](https://keyn1991.github.io/telegram-bot-ui/)
 
