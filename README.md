@@ -9,7 +9,7 @@
 
 ### 🎓 Education
 
-🎓 I'm currently studying **Computer Science (Informatyka)** at  
+🎓 I'm currently studying **Computer Science (Information technologies)** at  
 **Uniwersytet VIZJA w Warszawie** <br>
 **Akademia Ekonomiczno-Humanistyczna w Warszawie**
 
