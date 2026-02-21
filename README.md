@@ -102,6 +102,13 @@ https://portfolio-site-gpso.onrender.com/
 
 ---
 
+## CV
+
+Download CV (PDF):  
+[https://github.com/Dmytro-Potapchuk/Dmytro-Potapchuk/raw/main/Dmytro_Potapchuk_CV.pdf](https://drive.google.com/file/d/1T34-cSsNl1MBWWaHu63m9BAzNKCHsGR7/view)
+
+---
+
 ### 🧰 Technologies & Tools
 
 <p align="left">
