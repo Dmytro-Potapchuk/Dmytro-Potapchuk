@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmytro Potapchuk</h1>  
-<h3 align="center">Full Stack Developer from Warsaw — passionate about scalable web apps and modern technologies.</h3>
+<h3 align="center">Full Stack Developer | React • Next.js • NestJS  
+Building scalable web applications with clean architecture..</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dmytro-Potapchuk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
