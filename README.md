@@ -46,15 +46,8 @@ Building scalable web applications with clean architecture..</h3>
 - System design
 - Docker & DevOps
 - Advanced PostgreSQL
-
-
-### 🌱 Currently Learning
-
-- **Advanced Full Stack Development** @ [OWU Academy](https://owu.com.ua/)
-- JavaScript Complex**
-
+  
 ---
-
 
 ### 💬 Ask Me About
 
