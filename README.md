@@ -16,6 +16,13 @@ Building scalable web applications with clean architecture..</h3>
 
 ---
 
+### 🎯 What I Focus On
+
+- Building production-ready REST APIs (NestJS, PostgreSQL)
+- Designing scalable frontend architectures (React, Next.js)
+- Clean code & modular architecture
+- CI/CD & Docker basics
+
 ### 🚀 Projects I'm Working On
 
 - 💼 [CurrencyTransferAPI](https://github.com/Dmytro-Potapchuk/CurrencyTransferAPI) – REST API for a secure banking platform
