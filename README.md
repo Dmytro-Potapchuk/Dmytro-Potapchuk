@@ -35,12 +35,26 @@ Building scalable web applications with clean architecture..</h3>
 
 ---
 
+### 💼 Open to
+
+✔️ Junior / Mid Full Stack Developer  
+✔️ Backend Developer (Node.js / NestJS)  
+✔️ Remote / Warsaw
+
+
+### 🧩 Currently Improving
+- System design
+- Docker & DevOps
+- Advanced PostgreSQL
+
+
 ### 🌱 Currently Learning
 
 - **Advanced Full Stack Development** @ [OWU Academy](https://owu.com.ua/)
 - JavaScript Complex**
 
 ---
+
 
 ### 💬 Ask Me About
 
