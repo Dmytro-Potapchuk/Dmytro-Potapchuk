@@ -1,73 +1,104 @@
-<h1 align="center">Hi 👋, I'm Dmytro Potapchuk</h1>  
-<h3 align="center">Full Stack Developer | React • Next.js • NestJS  
-Building scalable web applications with clean architecture..</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dmytro-Potapchuk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<h1 align="center">Dmytro Potapchuk</h1>
+<h3 align="center">
+Full Stack Developer (React / Next.js / NestJS) <br/>
+Focused on scalable backend systems and clean architecture
+</h3>
 
 ---
 
-### 🎓 Education
+## Profile
 
-🎓 I'm currently studying **Computer Science (Information technologies)** at  
-**Uniwersytet VIZJA w Warszawie** <br>
-**Akademia Ekonomiczno-Humanistyczna w Warszawie**
-
----
-
-### 🎯 What I Focus On
-
-- Building production-ready REST APIs (NestJS, PostgreSQL)
-- Designing scalable frontend architectures (React, Next.js)
-- Clean code & modular architecture
-- CI/CD & Docker basics
-
-### 🚀 Projects I'm Working On
-
-- 💼 [CurrencyTransferAPI](https://github.com/Dmytro-Potapchuk/CurrencyTransferAPI) – REST API for a secure banking platform
-- 🛒 [Shop Parts](https://github.com/Dmytro-Potapchuk/shop-parts) – Car parts e-commerce application
-- 🤖 [Telegram Bot UI](https://keyn1991.github.io/telegram-bot-ui/) – Interface for custom Telegram bots
-- ☀️ [SolarGen](https://keyn1991.github.io/solar-gen/) – Renewable energy calculator
-- 🎬 [App Movie](https://keyn1991.github.io/app-movie-react-2023/) – A movie search/info SPA
-- 🖥️ [Final Project – Interface](https://github.com/Keyn1991/okten-final-project-interface) – React Frontend
-- ⚙️ [Final Project – Backend](https://github.com/Keyn1991/okten-final-project-backend-nestjs) – NestJS REST API
+Full Stack Developer with strong focus on backend architecture and scalable web applications.  
+Experienced in building REST APIs, designing modular systems, and integrating relational databases.  
+Interested in system design, performance optimization, and production-ready solutions.
 
 ---
 
-### 💼 Open to
+## Core Competencies
 
-✔️ Junior / Mid Full Stack Developer  
-✔️ Backend Developer (Node.js / NestJS)  
-✔️ Remote / Warsaw
-
-
-### 🧩 Currently Improving
-- System design
-- Docker & DevOps
-- Advanced PostgreSQL
-  
----
-
-### 💬 Ask Me About
-
-- React / Redux / Next.js
-- TypeScript / JavaScript
-- Node.js / Express / NestJS
-- PostgreSQL / MongoDB
-- GitHub CI/CD & RESTful APIs
-- .NET, C++, Arduino Uno
+- REST API development (NestJS, Node.js)
+- Backend architecture & modular design
+- PostgreSQL & relational data modeling
+- Frontend architecture (React, Next.js)
+- Authentication & authorization (JWT, role-based access)
+- Docker & containerized environments
+- CI/CD fundamentals
+- Clean code principles & maintainability
 
 ---
 
-### 📫 Contact Me
+## Selected Projects
 
-- **Email:** dmytro.potapchuk.it@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/dmytro-potapchuk-43b410273/)
-- [Facebook](https://www.facebook.com/dmytro.potapchuk/)
-- [Instagram](https://www.instagram.com/potapchukdmytro/)
-- [ByteCraft.dev](https://portfolio-site-gpso.onrender.com//)
+### CurrencyTransferAPI
+Banking-oriented REST API supporting user authentication, transactions, and currency exchange logic.
 
+**Responsibilities:**
+- Designed modular backend architecture
+- Implemented JWT-based authentication
+- Built transactional logic with relational database
+- Structured scalable service layer
+
+**Tech Stack:** NestJS, PostgreSQL, TypeORM, Docker  
+GitHub:  
+https://github.com/Dmytro-Potapchuk/CurrencyTransferAPI
+
+---
+
+### Shop Parts (E-commerce Application)
+Full-stack web application for automotive parts marketplace.
+
+**Responsibilities:**
+- Designed frontend architecture
+- Implemented product filtering and cart logic
+- Integrated backend API
+- Managed application state
+
+**Tech Stack:** React, Node.js, MongoDB  
+GitHub:  
+https://github.com/Dmytro-Potapchuk/shop-parts
+
+---
+
+### App Movie (SPA)
+Single-page application with external API integration.
+
+**Tech Stack:** React, REST API  
+Live:  
+https://keyn1991.github.io/app-movie-react-2023/
+
+---
+
+## Education
+
+BSc in Computer Science (Information Technologies)  
+Uniwersytet VIZJA w Warszawie
+
+---
+
+## Currently Developing
+
+- System design fundamentals
+- Backend performance optimization
+- Docker-based deployment workflows
+- Advanced PostgreSQL query optimization
+
+---
+
+## Open To
+
+- Junior / Mid Backend Developer
+- Full Stack Developer
+- Remote / Warsaw
+
+---
+
+## Contact
+
+Email: dmytro.potapchuk.it@gmail.com  
+LinkedIn:  
+https://www.linkedin.com/in/dmytro-potapchuk-43b410273/  
+Portfolio:  
+https://portfolio-site-gpso.onrender.com/
 
 ---
 
