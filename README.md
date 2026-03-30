@@ -98,7 +98,7 @@ Email: dmytro.potapchuk.it@gmail.com
 LinkedIn:  
 https://www.linkedin.com/in/dmytro-potapchuk-43b410273/  
 Portfolio:  
-https://portfolio-site-gpso.onrender.com/
+https://www.craftdev.pl/
 
 ---
 
